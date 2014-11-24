@@ -1,4 +1,4 @@
-package co.nadd.structure.backend.networking;
+package com.perezjavier.structure.backend.networking;
 
 import android.content.Context;
 

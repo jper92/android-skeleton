@@ -1,4 +1,4 @@
-package co.nadd.structure.backend.model;
+package com.perezjavier.structure.backend.model;
 
 import com.google.gson.annotations.SerializedName;
 

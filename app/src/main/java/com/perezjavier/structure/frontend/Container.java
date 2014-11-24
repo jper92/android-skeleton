@@ -1,4 +1,4 @@
-package co.nadd.structure.frontend;
+package com.perezjavier.structure.frontend;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -6,7 +6,7 @@ import android.support.v4.app.FragmentTransaction;
 import android.support.v7.app.ActionBarActivity;
 
 import co.nadd.structure.R;
-import co.nadd.structure.frontend.container.view.HelloWorldFragment;
+import com.perezjavier.structure.frontend.container.view.HelloWorldFragment;
 
 /**
  * Created by Javier on 11/17/14.

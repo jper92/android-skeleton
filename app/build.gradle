@@ -5,7 +5,7 @@ android {
     buildToolsVersion "21.0.1"
 
     defaultConfig {
-        applicationId "co.nadd.structure"
+        applicationId "com.perezjavier.structure"
         minSdkVersion 10
         targetSdkVersion 21
         versionCode 1

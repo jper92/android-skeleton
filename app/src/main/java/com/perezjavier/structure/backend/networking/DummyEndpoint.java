@@ -1,6 +1,6 @@
-package co.nadd.structure.backend.networking;
+package com.perezjavier.structure.backend.networking;
 
-import co.nadd.structure.backend.model.Dummy;
+import com.perezjavier.structure.backend.model.Dummy;
 import retrofit.Callback;
 import retrofit.http.GET;
 

@@ -1,6 +1,6 @@
-package co.nadd.structure.frontend.container;
+package com.perezjavier.structure.frontend.container;
 
-import co.nadd.structure.frontend.Container;
+import com.perezjavier.structure.frontend.Container;
 
 /**
  * Created by Javier on 11/17/14.

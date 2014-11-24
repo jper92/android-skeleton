@@ -1,4 +1,4 @@
-package co.nadd.structure.frontend.container.view;
+package com.perezjavier.structure.frontend.container.view;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -7,10 +7,10 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Toast;
 
-import co.nadd.structure.A;
+import com.perezjavier.structure.A;
 import co.nadd.structure.R;
-import co.nadd.structure.backend.model.Dummy;
-import co.nadd.structure.frontend.container.Fragment;
+import com.perezjavier.structure.backend.model.Dummy;
+import com.perezjavier.structure.frontend.container.Fragment;
 import retrofit.Callback;
 import retrofit.RetrofitError;
 import retrofit.client.Response;

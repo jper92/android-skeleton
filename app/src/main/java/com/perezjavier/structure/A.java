@@ -1,9 +1,9 @@
-package co.nadd.structure;
+package com.perezjavier.structure;
 
 import android.app.Application;
 
-import co.nadd.structure.backend.networking.DummyEndpoint;
-import co.nadd.structure.backend.networking.RestClient;
+import com.perezjavier.structure.backend.networking.DummyEndpoint;
+import com.perezjavier.structure.backend.networking.RestClient;
 
 /**
  * Created by Javier on 11/17/14.
